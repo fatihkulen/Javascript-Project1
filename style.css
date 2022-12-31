@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+  
+}
+.cap1{
+    font-size: 30px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #fd7e14;
+  letter-spacing: 5px;
+  
+  text-align: center;
+}
+.cap2{
+    font-size: 30px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #fd7e14;
+  letter-spacing: 6px;
+  text-align: center;
+  
+  
+}
+img{
+    margin-top: 100px;
+    width: 17%;
+}
+.day{
+  color: #fd7e14;
+  
+  font-size: 30px;
+  
+  letter-spacing: 2px;
+} 
+ 
+ 
+
+ 
+
+.clock{
+  color: #fd7e14;
+  font-size: 30px;
+}  
+  
+  
+ 
+
+.container{
+  display: flex;
+  justify-content: center;
+}
